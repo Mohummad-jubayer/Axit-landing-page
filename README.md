@@ -1,1 +1,1 @@
-# Axit-landing-page
+# Axit
